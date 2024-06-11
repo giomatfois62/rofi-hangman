@@ -1,5 +1,5 @@
 ## rofi-hangman
-Simple hangman game using rofi. 
+Simple hangman game using rofi.  
 Place custom word files in the data directory. 
 
 ## Gallery 
